@@ -1,1 +1,1 @@
-document.getElementById("mensagem").innerText = "Eu preferia jogar truco na sala e comer pizza,lanche,hamburguer"
+document.getElementById("mensagem").innerText = "âlo mundo"
